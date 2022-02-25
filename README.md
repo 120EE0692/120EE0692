@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aashish Pradhan</h1>
-- 🌱 I’m currently learning **solidity ,DSA etc**
+- 🌱 I’m currently learning solidity ,DSA etc
 
 - 💬 Ask me about **react, express and firebase**
 
